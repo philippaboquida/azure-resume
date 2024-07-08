@@ -9,8 +9,6 @@ https://www.youtube.com/watch?v=ieYrBWmkfno
 - Azure CosmosDB
 - Azure Functions
 - Azure Storage + Static Website Hosting
-- Azure CDN
-- Azure DNS
 
 
 ## Initial Front end setup
@@ -40,3 +38,7 @@ https://www.youtube.com/watch?v=ieYrBWmkfno
 - Grabbed the function URL, placed it into the js code in the front end
 - Using Azure Storage Account, deployed the front end to Static Website Hosting
 - Enabled CORS and added the website link to enable the counter
+
+## Future intentions and planned updates
+
+- As shown in the guide, I would like to use CDN and Azure DNS to better share the website but these can not be done in a free Azure subscription
